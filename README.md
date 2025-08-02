@@ -24,7 +24,7 @@ Transformers, NLTK, Streamlit, Flask
 
 ---
 
-## 📂 Experience  
+<!-- ## 📂 Experience  
 
 ### Data Science Intern (MTS) | **May 2025 - July 2025**  
 - **Role** 
@@ -46,7 +46,7 @@ Transformers, NLTK, Streamlit, Flask
 
 ## 🤝 Roles & Responsibilities  
 
-### **Google Developers Group Circle Manager**: ...  
+### **Google Developers Group Circle Manager**: ...   -->
 -   
 
 ---
